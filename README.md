@@ -17,7 +17,7 @@ I am a software engineering student at the McGill University with a passion for 
 ### Languages
 I have added graphics for the programming languages I have used in my projects. Additionally, I have included statistics for different activities such as the number of commits and pull requests.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=keikei-jaffar"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arokkhot"/>
 
 If you have any questions or feedback, please feel free to reach out to me. 
 
