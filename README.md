@@ -15,9 +15,16 @@ I am a software engineering student at the McGill University with a passion for 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### Languages
-I have added graphics for the programming languages I have used in my projects. Additionally, I have included statistics for different activities such as the number of commits and pull requests.
+I have added a list of programming languages I have used in my project below.
+   1.Python
+   2.Java
+   3.Ocaml
+   4.C#
+   5.C
+   6.HTML/CSS/Javascript
+   7.MIPS
+   8.R
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arokkhot"/>
 
 If you have any questions or feedback, please feel free to reach out to me. 
 
